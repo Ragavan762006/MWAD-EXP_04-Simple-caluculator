@@ -177,6 +177,8 @@ button:nth-child(12):hover {
 ```
 ## OUTPUT
 <img width="1843" height="989" alt="image" src="https://github.com/user-attachments/assets/5d3f587c-2017-450b-b8de-2b2617a8b197" />
+<img width="1481" height="944" alt="image" src="https://github.com/user-attachments/assets/e2908e85-3e16-4918-9da0-d904dc54eb02" />
+<img width="1565" height="944" alt="image" src="https://github.com/user-attachments/assets/3805f011-400c-4320-ab03-155a9c2cdb4a" />
 
 
 ## RESULT
