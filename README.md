@@ -1,5 +1,7 @@
 # MWAD-EXP_04-Simple-caluculator
-## Date:
+## Name : Ragavan E
+## Reg No: 212223040160
+## Date: 21/9/2025
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
@@ -174,6 +176,7 @@ button:nth-child(12):hover {
 
 ```
 ## OUTPUT
+<img width="1843" height="989" alt="image" src="https://github.com/user-attachments/assets/5d3f587c-2017-450b-b8de-2b2617a8b197" />
 
 
 ## RESULT
